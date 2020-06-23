@@ -1,6 +1,6 @@
 # resumeapp
 
-A Flutter-React hybrid application.
+A Flutter application.
 
 ## Getting Started
 
